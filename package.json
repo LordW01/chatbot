@@ -1,0 +1,27 @@
+{
+  "name": "yapay-zeka-sohbet-altyapisi",
+  "version": "1.0.0",
+  "description": "Utiric Boş Altyapı",
+  "main": "shard.js",
+  "scripts": {
+    "start": "node shard.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "author": "Utiric Code",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/rest": "^1.7.1",
+    "@discordjs/voice": "^0.16.0",
+    "axios": "^1.5.0",
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.11.0",
+    "fs": "^0.0.1-security",
+    "hercai": "^10.0.2",
+    "opus": "^0.0.0",
+    "path": "^0.12.7",
+    "terminal.xr": "^1.2.3"
+  }
+}
